@@ -1,0 +1,2 @@
+# Data Analysis of Android Apps on Google Play using Python
+The Google Play Store apps data has enormous potential to facilitate data-driven decisions and insights for businesses. In this notebook, I will analyze the Android app market by comparing ~10k apps in Google Play across different categories. will also use the user reviews to draw a qualitative comparision between the apps.
